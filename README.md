@@ -1,6 +1,6 @@
 The GitHub user search project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
-[Sample](https://github.com/furbo1/React-GitHub-User-Search-Portfolio/blob/master/Snip20200825_19.png)
+![Alt Text](https://github.com/furbo1/React-GitHub-User-Search-Portfolio/blob/master/Snip20200825_19.png)
 
 
 ## Available Scripts
